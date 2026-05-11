@@ -105,12 +105,11 @@ section p {
 /* Imagem principal */
 section img {
     width: 100%;
-    height: 350px;
+    max-height: 420px;
     object-fit: cover;
     border-radius: 12px;
     border: 3px solid #d9a441;
     margin-top: 15px;
-
 }
 
 /* ============================= */
